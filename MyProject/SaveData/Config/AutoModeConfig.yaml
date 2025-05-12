@@ -1,0 +1,6 @@
+AutoModeConfig:
+  BrightThreshold: 600
+  DarkThreshold: 300
+  DarkReactionDelay: 3
+  BrightReactionDelay: 3
+  BurnPath: D:/Chen/AutoHeadLight_Arduino/Light

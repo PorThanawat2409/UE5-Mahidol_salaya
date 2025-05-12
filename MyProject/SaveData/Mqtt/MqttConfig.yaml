@@ -1,0 +1,5 @@
+MqttConfig:
+  HostURL: 192.168.194.249
+  Port: 1883
+  ClientID: VW
+  EventLoop: -1

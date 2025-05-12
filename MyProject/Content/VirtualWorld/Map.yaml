@@ -1,0 +1,24 @@
+mapDatalist:
+  congestionDatalist:
+    - congestionName: Test
+      congestionFee: 200
+      positionX: 902.98150634765625
+      positionY: -13581.29296875
+      positionZ: 100
+      rotationX: 0
+      rotationY: 98.822410583496094
+      rotationZ: 0
+      scaleX: 2.5549418926239014
+      scaleY: 1
+      scaleZ: 0.62204587459564209
+    - congestionName: Lang Suan
+      congestionFee: 30
+      positionX: -11852.6982421875
+      positionY: 64607.60546875
+      positionZ: 100
+      rotationX: 0
+      rotationY: 9.511784553527832
+      rotationZ: 0
+      scaleX: 0.46563681960105896
+      scaleY: 1
+      scaleZ: 4.7403712272644043
