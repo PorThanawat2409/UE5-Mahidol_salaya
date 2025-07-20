@@ -1,5 +1,6 @@
 # TorchTrack
 Real-time 3D Map Synchronization using GPS tracking
+(You can download Project from [Google drive](https://drive.google.com/drive/folders/1oHkck03zB_cuzYC-l4ehQpoZpz7Au9Ac?usp=sharing) and [Github](https://github.com/PorThanawat2409/UE5-Mahidol_salaya.git) )
 
 This is a digital twin develop by Unreal Engine 5 map on Mahidol University Salaya Campus for exploration and GPS sync with our [mobile application](https://github.com/6487055yuttapichai/mahidol-GPS-app-.git).
 
@@ -13,6 +14,13 @@ This is a digital twin develop by Unreal Engine 5 map on Mahidol University Sala
 ##### For use sync GPS with mobie application (can skip if use offline)
 + [TorchTrack Mobile application](https://github.com/6487055yuttapichai/mahidol-GPS-app-.git)
 + [MongoDB database API](https://github.com/PorThanawat2409/mongoDBAPI.git) 
+
+
+## IF YOU WANT TO OPEN PROGRAM ONLY (DON'T EDIT)
+- PC
+   - Open with TorchTrack exe.zip
+- Android (Need xbox controller to control)
+   - Install with TorchTrack Mobile Version.apk
 
 ## PreInstallation Setup
 
